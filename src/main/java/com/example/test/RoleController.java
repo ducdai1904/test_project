@@ -8,6 +8,5 @@ import org.springframework.stereotype.Controller;
 public class RoleController {
 private String name;
 private String age;
-private String address;
-private int tuoi;
+private String school;
 }
