@@ -6,5 +6,6 @@ import org.springframework.stereotype.Controller;
 @RequiredArgsConstructor
 @Controller
 public class RoleController {
-
+private String name;
+private String age;
 }
